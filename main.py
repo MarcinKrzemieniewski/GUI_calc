@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# GUI calculator
+#   GUI calculator
 from tkinter import *
 from tkinter import ttk
 import tkinter
